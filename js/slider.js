@@ -11,6 +11,7 @@ slider_next_btn.onclick = function () {
     if(i >= slider_images.length){
         i = 0;
     }
+    console.log(i);
     slider_images[i].classList.add('active')
 };
 
@@ -29,15 +30,24 @@ function slider_next() {
     if (i >= slider_images.length) {
         i = 0;
     }
+    console.log(i);
     slider_images[i].classList.add('active');
 }
 
-// let int = setInterval(slider_next, 300);
+function start() {
+    return int = setInterval(slider_next, 2000)
+}
 
-// slider.onmouseover = function () {
-//
-// };
+// start();
 
-if(slider.onmouseover()){
+function stop() {
     clearInterval(int)
 }
+
+slider.onmouseover = function () {
+    stop()
+};
+
+slider.onmouseout = function () {
+    start()
+};
