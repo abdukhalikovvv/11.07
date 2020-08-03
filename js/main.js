@@ -223,3 +223,24 @@
 // }
 //
 // console.log(res);
+
+
+
+let arr = [];
+let str = 'x';
+
+for(i = 0; i < 10; i++){
+    arr.push(str);
+    str = str + str[i];
+}
+
+console.log(arr);
+
+
+// let num = [];
+//
+// for(i = 7; i < 10; i++){
+//     num.push(i)
+// }
+//
+// console.log(num);
