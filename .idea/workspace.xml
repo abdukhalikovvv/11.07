@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3d4c1a9-f795-4a2b-a3c1-b29c99f40844" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/js/myRandom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myRandom.html" afterDir="false" />
+    <list default="true" id="a3d4c1a9-f795-4a2b-a3c1-b29c99f40844" name="Default" comment="slider images">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/slider.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/slider.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/myRandom.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/myRandom.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -37,6 +35,15 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="addevent.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/addevent.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="myRandom.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myRandom.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -49,8 +56,8 @@
       <file leaf-file-name="addevent.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/addevent.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="45" lean-forward="true" selection-start-column="45" selection-end-column="45" />
+            <state relative-caret-position="45">
+              <caret line="3" column="50" selection-start-line="3" selection-start-column="50" selection-end-line="3" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -58,8 +65,8 @@
       <file leaf-file-name="myRandom.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/myRandom.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            <state relative-caret-position="285">
+              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -106,9 +113,9 @@
         <option value="$PROJECT_DIR$/slider.html" />
         <option value="$PROJECT_DIR$/css/slider.css" />
         <option value="$PROJECT_DIR$/addevent.html" />
-        <option value="$PROJECT_DIR$/js/addevent.js" />
         <option value="$PROJECT_DIR$/js/slider.js" />
         <option value="$PROJECT_DIR$/myRandom.html" />
+        <option value="$PROJECT_DIR$/js/addevent.js" />
         <option value="$PROJECT_DIR$/js/myRandom.js" />
       </list>
     </option>
@@ -191,7 +198,7 @@
       <workItem from="1595756299878" duration="14651000" />
       <workItem from="1596310916066" duration="1653000" />
       <workItem from="1596368225536" duration="194000" />
-      <workItem from="1596468572486" duration="3672000" />
+      <workItem from="1596468572486" duration="4612000" />
     </task>
     <task id="LOCAL-00001" summary="added object html and js">
       <created>1595772466653</created>
@@ -207,11 +214,25 @@
       <option name="project" value="LOCAL" />
       <updated>1596468663428</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="'myRandom' project">
+      <created>1596479027302</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596479027302</updated>
+    </task>
+    <task id="LOCAL-00004" summary="slider images">
+      <created>1596521819509</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1596521819509</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35110000" />
+    <option name="totallyTimeSpent" value="36050000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="805" extended-state="0" />
@@ -245,7 +266,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added object html and js" />
     <MESSAGE value="added game html and js&#10;added addevent html and js" />
-    <option name="LAST_COMMIT_MESSAGE" value="added game html and js&#10;added addevent html and js" />
+    <MESSAGE value="'myRandom' project" />
+    <MESSAGE value="slider images" />
+    <option name="LAST_COMMIT_MESSAGE" value="slider images" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/slider.html">
@@ -442,13 +465,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/addevent.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/object.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -487,13 +503,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myRandom.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/slider.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-97">
@@ -501,17 +510,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/addevent.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myRandom.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/addevent.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="45" lean-forward="true" selection-start-column="45" selection-end-column="45" />
+        <state relative-caret-position="45">
+          <caret line="3" column="50" selection-start-line="3" selection-start-column="50" selection-end-line="3" selection-end-column="50" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/myRandom.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        <state relative-caret-position="285">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
         </state>
       </provider>
     </entry>
